@@ -13,7 +13,7 @@
 ## 📕 Projects Highlights
 
 <div align="center">
-<h3>✅ Assembly Projects</h3>
+<h3>✅ Assembly</h3>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<h3>✅  C projects</h3>
+<h3>✅  C</h3>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-<h3>✅  C++ projects</h3>
+<h3>✅  C++</h3>
 </div>
 
 <div align="center">
@@ -61,4 +61,14 @@
 </div>
 <div align="center">
     <a href="https://github.com/42f/FT_CONTAINERS_42_tester"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_CONTAINERS_42_tester&theme=buefy"></a>
+</div>
+
+<div align="center">
+<h3>✅  DevOp </h3>
+</div>
+<div align="center">
+    <a href="https://github.com/42f/FT_SERVER"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_SERVER&theme=buefy"></a>
+</div>
+<div align="center">
+    <a href="https://github.com/42f/FT_SERVICES"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_SERVICES&theme=buefy"></a>
 </div>

@@ -13,7 +13,7 @@
 ## 📕 Projects Highlights
 
 <div align="center">
-<h3>✅ Assembly</h3>
+<h2>✅ Assembly</h2>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<h3>✅  C</h3>
+<h2>✅  C</h2>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-<h3>✅  C++</h3>
+<h2>✅  C++</h2>
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-<h3>✅  DevOp </h3>
+<h2>✅  DevOp </h2>
 </div>
 <div align="center">
     <a href="https://github.com/42f/FT_SERVER"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_SERVER&theme=buefy"></a>

@@ -1,16 +1,43 @@
-### Hi there 👋
+### 🖥 École 42
+<div align="center">
+<a href="https://github.com/42ftab=repositories"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=bvalette"></a>&nbsp;&nbsp;&nbsp;
+</div>
 
-<!--
-**42f/42f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧮 Githib Stats
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42f&hide=PHP&theme=onedark" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=42f&&show_icons=true&line_height=27&v=5&theme=onedark&hide=contribs,issues&count_private=true" alt="Brian's GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📕 Projects Highlights
+
+<div align="center">
+<h4>✅ C projects</h4>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+</div>
+<div align="center">
+<h4>✅ C++ projects</h4>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+</div>
+<div align="center">
+<h4>✅ Assembly projects</h4>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+</div>

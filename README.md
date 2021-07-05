@@ -18,7 +18,7 @@
 <h3>✅  C projects</h3>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
+    <a href="https://github.com/42f/MINISHELL_42"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy"></a> <img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=CUBE_3D&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">

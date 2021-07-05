@@ -12,12 +12,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=42f&&show_icons=true&line_height=27&v=5&theme=onedark&hide=contribs,issues&count_private=true" alt="Brian's GitHub Stats" />
 </div>
 
----
-
 ## 📕 Projects Highlights
 
 <div align="center">
-<h2>✅  C projects</h3>
+<h3>✅  C projects</h3>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy">

@@ -13,7 +13,7 @@
 ## 📕 Projects Highlights
 
 <div align="center">
-<h2>✅ Assembly</h2>
+<h3> 📌 Assembly</h3>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<h2>✅  C</h2>
+<h3> 📌  C</h3>
 </div>
 
 <div align="center">
@@ -32,10 +32,6 @@
 </div>
 <div align="center">
     <a href="https://github.com/42f/FT_PRINTF"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_PRINTF &theme=buefy"></a>
-</div>
-
-<div align="center">
-<a href="https://github.com/42f/CUBE_3D"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=CUBE_3D&theme=buefy"></a>
 </div>
 <div align="center">
     <a href="https://github.com/42f/CUBE_3D"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=CUBE_3D&theme=buefy"></a>
@@ -49,7 +45,7 @@
 </div>
 
 <div align="center">
-<h2>✅  C++</h2>
+<h3> 📌  C++</h3>
 </div>
 
 <div align="center">
@@ -64,7 +60,7 @@
 </div>
 
 <div align="center">
-<h2>✅  DevOp </h2>
+<h3> 📌  DevOp </h3>
 </div>
 <div align="center">
     <a href="https://github.com/42f/FT_SERVER"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_SERVER&theme=buefy"></a>

@@ -32,7 +32,7 @@
     <a href="https://github.com/42f/GET_NEXT_LINE"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=GET_NEXT_LINE&theme=buefy"></a>
 </div>
 <div align="center">
-    <a href="https://github.com/42f/FT_PRINTF"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_PRINTF &theme=buefy"></a>
+    <a href="https://github.com/42f/FT_PRINTF"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_PRINTF&theme=buefy"></a>
 </div>
 <div align="center">
     <a href="https://github.com/42f/CUBE_3D"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=CUBE_3D&theme=buefy"></a>

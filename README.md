@@ -3,7 +3,6 @@
 <a href="https://profile.intra.42.fr/users/bvalette"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=bvalette"></a>
 </div>
 
-
 ## 🧮 Github Stats
 
 <div align="center">
@@ -69,3 +68,10 @@
 <div align="center">
     <a href="https://github.com/42f/FT_SERVICES"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_SERVICES&theme=buefy"></a>
 </div>
+
+
+
+----------------
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42f&repo=MINISHELL_42&theme=calm&border_radius=30&hide_border=true)](https://github.com/42f/MINISHELL_42)
+----------------
+

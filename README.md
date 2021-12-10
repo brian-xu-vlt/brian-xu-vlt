@@ -13,6 +13,8 @@
 ## 📕 Projects Highlights
 
 <div align="center">
+    </div>
+
 <h3> 📌 Assembly</h3>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42f&repo=LIBASM&theme=calm&border_radius=30&hide_border=true)] (https://github.com/42f/LIBASM)
 <h3> 📌  C</h3>
@@ -29,6 +31,5 @@
 <h3> 📌  DevOp </h3>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42f&repo=FT_SERVER&theme=calm&border_radius=30&hide_border=true)](https://github.com/42f/FT_SERVER)
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42f&repo=FT_SERVICES&theme=calm&border_radius=30&hide_border=true)](https://github.com/42f/FT_SERVICES)
-</div>
 
 

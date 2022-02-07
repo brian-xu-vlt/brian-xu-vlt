@@ -1,12 +1,16 @@
-## 🖥 École 42
+## 🖥 École 42 student
+
 <div align="center">
-![Metrics](https://github.com/yavuzsonmez/42f/blob/main/github-metrics.svg)
+<a href="https://profile.intra.42.fr/users/bvalette">
+   <img width="100px" src="https://42.fr/wp-content/uploads/2021/07/42-Final-sigle-seul.svg" alt="42 School logo"/></a>
 </div>
 
 
-## 🧮 Github Stats
 
+## 🧮 Github Stats
 <div align="center">
+<img src="https://github.com/yavuzsonmez/42f/blob/main/github-metrics.svg" alt="github stats">
+
 <a href="https://github.com/42f?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42f&theme=onedark&hide=Objective-C">
 <img src="https://github-readme-stats.vercel.app/api?username=42f&&show_icons=true&line_height=27&v=5&theme=onedark&hide=contribs,issues&count_private=true" alt="Brian's GitHub Stats"/></a>
 </div>

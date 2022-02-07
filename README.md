@@ -1,6 +1,6 @@
 ## 🖥 École 42
 <div align="center">
-<a href="https://profile.intra.42.fr/users/bvalette"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=bvalette"></a>
+![Metrics](https://github.com/yavuzsonmez/42f/blob/main/github-metrics.svg)
 </div>
 
 

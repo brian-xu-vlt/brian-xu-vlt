@@ -9,7 +9,7 @@
 
 ## 🧮 Github Stats
 <div align="center">
-<img src="https://github.com/yavuzsonmez/42f/blob/main/github-metrics.svg" alt="github stats">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <a href="https://github.com/42f?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42f&theme=onedark&hide=Objective-C">
 <img src="https://github-readme-stats.vercel.app/api?username=42f&&show_icons=true&line_height=27&v=5&theme=onedark&hide=contribs,issues&count_private=true" alt="Brian's GitHub Stats"/></a>

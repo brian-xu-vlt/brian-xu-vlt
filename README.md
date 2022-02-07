@@ -1,15 +1,16 @@
-## 🖥 École 42 student
-
-<div align="center">
-<a href="https://profile.intra.42.fr/users/bvalette">
-   <img width="100px" src="https://42.fr/wp-content/uploads/2021/07/42-Final-sigle-seul.svg" alt="42 School logo"/></a>
-</div>
-
-
 
 ## 🧮 Github Stats
 <div align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+</div>
+
+## 🖥 École 42 student
+
+<div align="center">
+
+<a href="https://profile.intra.42.fr/users/bvalette">
+   <img width="100px" src="https://42.fr/wp-content/uploads/2021/07/42-Final-sigle-seul.svg" alt="42 School logo"/>
+</a>  
 </div>
 
 ## 📕 Projects Highlights

@@ -9,10 +9,6 @@
  <div align="center">
     <a href="https://profile.intra.42.fr/users/bvalette">
       <img width="100px" src="https://42.fr/wp-content/uploads/2021/07/42-Final-sigle-seul.svg" alt="42 School logo" />
-    <div align="center">
-      <img src="https://badge42.herokuapp.com/api/stats/bvalette?darkmode=true">
-      <img src="https://badge42.herokuapp.com/api/stats/bvalette?cursus=C%20Piscine&darkmode=true">
-    </div>
    </a>
   </div>
 

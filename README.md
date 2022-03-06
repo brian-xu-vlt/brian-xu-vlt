@@ -24,8 +24,8 @@
      </li>
   </ul>
  
- <p>👨🏻‍💻   Spending two years coding from scratch, I am confident in C and C++, as well as some tools like Docket, k8s, bash scripting, git...</p>
-  <p>🚀   I recently decided to expand my skills set to web developpment joining <a href="https://www.ironhack.com/">Ironhack bootcamp</a>.</p>
+ <p>👨🏻‍💻   Spending two years learning code from scratch, I am now confident in C and C++, as well as some tools like Docker, k8s, bash scripting, git...</p>
+  <p>🚀   I recently decided to expand my skillset to web development, joining <a href="https://www.ironhack.com/">Ironhack bootcamp</a> for a deep dive in javascript, front and back end, noSql databases...</p>
   </div>
    <div align="center">
   <img width="100px" src="images/ironhack.png" alt="Ironhack bootcamp logo" />

@@ -43,12 +43,10 @@
     <a href="https://github.com/42f/PHILOSOPHERS"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=PHILOSOPHERS&theme=buefy"></a>
 </div>
 <div align="center">
+  <p>⭐ Large project ⭐</p>
     <a href="https://github.com/42f/MINISHELL_42"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=MINISHELL_42&theme=buefy"></a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/42f/WEBSERV"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=WEBSERV&theme=buefy"></a>
-</div>
 <div align="center">
 <h3> 📌  C++</h3>
 </div>
@@ -64,6 +62,10 @@
     <a href="https://github.com/42f/FT_CONTAINERS_42_tester"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_CONTAINERS_42_tester&theme=buefy"></a>
 </div>
 
+<div align="center">
+ <p>⭐ Large project ⭐</p>
+    <a href="https://github.com/42f/WEBSERV"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=WEBSERV&theme=buefy"></a>
+</div>
 <div align="center">
 <h3> 📌  DevOp </h3>
 </div>

@@ -107,3 +107,10 @@
 <div align="center">
     <a href="https://github.com/42f/FT_SERVICES"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=FT_SERVICES&theme=buefy"></a>
 </div>
+<div align="center">
+<h3> 📌  WEB </h3>
+</div>
+<div align="center">
+    <a href="https://github.com/42f/ft_transcendence"><img src="https://github-readme-stats.vercel.app/api/pin?username=42f&repo=ft_transcendence&theme=buefy"></a>
+</div>
+

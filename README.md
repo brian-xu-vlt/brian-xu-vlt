@@ -24,6 +24,9 @@
     <li>
        💥  <a href="https://github.com/42f/WEBSERV">Webserve</a>: We reimplementated a minimalist HTTP/1.1 web server, based on nginx model.
      </li>
+      <li>
+       💥  <a href="https://github.com/42f/ft_transcendence">Ft_transcendence</a>: Full-stack application which allows user play pong game online and chat among each other.
+     </li>
   </ul>
  
   </div>

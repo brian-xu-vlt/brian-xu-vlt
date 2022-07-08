@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: 42f
+          user: brian-xu-vlt
           template: classic
           base: header, activity, repositories
           config_timezone: Europe/Paris
